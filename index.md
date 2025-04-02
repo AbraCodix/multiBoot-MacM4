@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: How to multi-boot Mac M4
 ---
 
